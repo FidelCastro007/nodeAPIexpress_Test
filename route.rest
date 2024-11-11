@@ -1,0 +1,22 @@
+###
+
+# GET request to retrieve a product by ID
+GET http://localhost:3000/api/products
+
+###
+
+### POST request to create a product
+POST http://localhost:3000/api/products
+Content-Type: application/json
+
+{
+        "productName": "Microwave Oven",
+        "productCode": "MW7890",
+        "category": "Appliances",
+        "manufacturer": "KitchenWare",
+        "marketing": "QuickHeat",
+        "dateOfManufacturing": "2024-05-30"
+}
+
+### DELETE request to delete a product by ID
+DELETE http://localhost:3000/api/products/5

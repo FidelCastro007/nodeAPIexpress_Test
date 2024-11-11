@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "productName": "Laptop",
+    "productCode": "LT1234",
+    "category": "Electronics",
+    "manufacturer": "TechCo",
+    "marketing": "Premium Series",
+    "dateOfManufacturing": "2024-11-10"
+  },
+  {
+    "id": 2,
+    "productName": "Smartphone",
+    "productCode": "SP5678",
+    "category": "Electronics",
+    "manufacturer": "MobileCorp",
+    "marketing": "Flagship Model",
+    "dateOfManufacturing": "2024-10-15"
+  },
+  {
+    "id": 3,
+    "productName": "Headphones",
+    "productCode": "HP9012",
+    "category": "Accessories",
+    "manufacturer": "SoundTech",
+    "marketing": "Noise Cancelling",
+    "dateOfManufacturing": "2024-08-21"
+  },
+  {
+    "id": 4,
+    "productName": "Blender",
+    "productCode": "BL3456",
+    "category": "Appliances",
+    "manufacturer": "HomeApplian",
+    "marketing": "High-Speed",
+    "dateOfManufacturing": "2024-06-18"
+  },
+  {
+    "id": 5,
+    "productName": "Microwave Oven",
+    "productCode": "MW7890",
+    "category": "Appliances",
+    "manufacturer": "KitchenWare",
+    "marketing": "QuickHeat",
+    "dateOfManufacturing": "2024-05-30"
+  }
+]
